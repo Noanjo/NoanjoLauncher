@@ -1,2 +1,2 @@
-# Heroesandgeneralsfiles
-Files for booting Heroes & Generals
+# Noanjo Launcher
+Gets you past the server shutdown screen in Heroes & Generals
