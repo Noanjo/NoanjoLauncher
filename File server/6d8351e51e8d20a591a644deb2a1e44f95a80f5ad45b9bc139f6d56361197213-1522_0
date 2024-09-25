@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<uniquelists>
+	<list id="DirectX" uniquefile="28fa8d90941bdbc049d8bd707b6fdc9f4c36ccca6927d222285c81a98f50f8a4-1227_0"/>
+	<list id="Game_Client_Executables" uniquefile="f2c0c38b45ccd020edcc537c360476528b0f1bfe35e307164e8efd284729a86f-73628_0"/>
+	<list id="game_client_executables_linux" uniquefile="883403e7c7a94a1c405af649a473ced0e3fa9311f17ccb4f1caf96584a573eef-64480_0"/>
+	<list id="T00M00_AllLevels" uniquefile="6fc97101936b3c85011f2aaeecee1e3709af06f97f94cc65ada31d89e77c3b09-1439750_0"/>
+	<list id="WarDatabase" uniquefile="49a086e693ef3ff5b201867051789a7a71e25fb147a892dc3303ab8c92dd7677-10389_0"/>
+	<list id="Flash_Resources" uniquefile="ef26c9a46f0db245572bad75626f9085a7a38d0d3ae9ad5edc283fbaf347abf9-495283_0"/>
+	<list id="RetoX_Depends" uniquefile="5d1aa37896c214df5ff3977bd8bdb88f8a6560319bdf129a9556dc6b32c85672-1939_0"/>
+	<list id="desktop_client" uniquefile="0b4b6989cf60725e7ae2917f0de9b5878fd69009282b8bc0fdd9356ed7874121-5077_0"/>
+	<list id="steam_client" uniquefile="abbcacc64baf0afb4248c1aac025f0643bafb827c6417f4d837f9c2ab4a7ccff-7434_0"/>
+	<list id="discord_client" uniquefile="abbcacc64baf0afb4248c1aac025f0643bafb827c6417f4d837f9c2ab4a7ccff-7434_0"/>
+	<list id="epic_client" uniquefile="abbcacc64baf0afb4248c1aac025f0643bafb827c6417f4d837f9c2ab4a7ccff-7434_0"/>
+	<list id="SmallFiles" uniquefile="8d234f2607326e727d2345022a591e359a701738e60fabe7b6904684caf24d6b-91_0" uniquefilebundle="e2d5813ed1e0b3eba3e85ea9591bf436a6e808d52b84ddd7df894a74ee67c5aa-64_0"/>
+</uniquelists>
